@@ -1,0 +1,501 @@
+,Unnamed: 0,name,meshid,scientific name
+0,0,Abdominal abscess,D018784,Abdominal Abscess
+1,1,Acanthamoeba keratitis,D015823,Acanthamoeba Keratitis
+2,2,Acne,D000152,Acne Vulgaris
+3,3,Actinomycosis,D000196,Actinomycosis
+4,4,Acute bacteria prostatitis,D011472,Prostatitis
+5,5,Acute chest syndrome,D056586,Acute Chest Syndrome
+6,6,Acute hemorrhagic conjunctivitis,D003232,"Conjunctivitis, Acute Hemorrhagic"
+7,7,Acute hepatitis a virus (hav) infection,D030041,Hepatitis A virus
+8,8,"Adenomatosis, pulmonary",D018255,"Adenomatosis, Pulmonary"
+9,9,Age-related macular degeneration,D008268,Macular Degeneration
+10,10,Aggressive periodontitis,D010520,Aggressive Periodontitis
+11,11,Aids,D000163,Acquired Immunodeficiency Syndrome
+12,12,Alcohol dependence,D000437,Alcoholism
+13,13,Alcoholic pancreatitis,D019512,"Pancreatitis, Alcoholic"
+14,14,Allergic contact dermatitis,D017449,"Dermatitis, Allergic Contact"
+15,15,Allergic sensitization measurement,D000486,Allergy and Immunology
+16,16,Allergy,D000486,Allergy and Immunology
+17,17,Alzheimers disease,D000544,Alzheimer Disease
+18,18,Amebiasis,D000562,Amebiasis
+19,19,Amyotrophic lateral sclerosis,D000690,Amyotrophic Lateral Sclerosis
+20,20,Ancylostomiasis,D000724,Ancylostomiasis
+21,21,Anemia,D000740,Anemia
+22,22,Anisakiasis,D017129,Anisakiasis
+23,23,Ankylosing spondylitis,D013167,"Spondylitis, Ankylosing"
+24,24,Anogenital venereal wart,D003218,Condylomata Acuminata
+25,25,Anorexia,D000855,Anorexia
+26,26,Anorexia nervosa,D000856,Anorexia Nervosa
+27,27,Aphthous ulcer,D013281,"Stomatitis, Aphthous"
+28,28,Appendicitis,D001064,Appendicitis
+29,29,Arthritis,D001168,Arthritis
+30,30,Ascariasis,D001196,Ascariasis
+31,31,Ascites,D001201,Ascites
+32,32,Aseptic meningitis,D008582,"Meningitis, Aseptic"
+33,33,Asthma,D001249,Asthma
+34,34,Asthma exacerbation measurement,D001249,Asthma
+35,35,Atc code d dermatologicals,D012871,Skin Diseases
+36,36,Atherosclerosis,D050197,Atherosclerosis
+37,37,Atopic eczema,D003876,"Dermatitis, Atopic"
+38,38,Atopy,D006967,Hypersensitivity
+39,39,Atrophic gastritis,D005757,"Gastritis, Atrophic"
+40,40,Atrophic rhinitis,D012222,"Rhinitis, Atrophic"
+41,41,Atrophic vaginitis,D059268,Atrophic Vaginitis
+42,42,Attention deficit hyperactivity disorder,D001289,Attention Deficit Disorder with Hyperactivity
+43,43,Autism,D001321,Autistic Disorder
+44,44,Autism spectrum disorder,D000067877,Autism Spectrum Disorder
+45,45,Autoimmune hepatitis,D019693,"Hepatitis, Autoimmune"
+46,46,Autoimmune polyendocrinopathy type 1,D016884,"Polyendocrinopathies, Autoimmune"
+47,47,Azoospermia,D053713,Azoospermia
+48,48,Babesiosis,D001404,Babesiosis
+49,49,Bacteria vaginosis,D016585,"Vaginosis, Bacterial"
+50,50,Bacterial conjunctivitis,D003234,"Conjunctivitis, Bacterial"
+51,51,Bacterial endocarditis,D004697,"Endocarditis, Bacterial"
+52,52,Bacterial meningitis,D016920,"Meningitis, Bacterial"
+53,53,Bacterial vaginosis,D016585,"Vaginosis, Bacterial"
+54,54,Bacteriemia,D016470,Bacteremia
+55,55,Balantidiasis,D001447,Balantidiasis
+56,56,Barrett's esophagus,D001471,Barrett Esophagus
+57,57,Bartholin gland carcinoma,D001472,Bartholin's Glands
+58,58,Behcet's syndrome,D001528,Behcet Syndrome
+59,59,Biliary dyskinesia,D001657,Biliary Dyskinesia
+60,60,Bipolar disorder,D001714,Bipolar Disorder
+61,61,Black leg disease,D046975,Clostridium chauvoei
+62,62,Black scour disease,D055008,Anthracosis
+63,63,Blastomycosis,D001759,Blastomycosis
+64,64,Borrelia infectious disease,D025065,Borrelia burgdorferi
+65,65,Botulism,D001906,Botulism
+66,66,Boutonneuse fever,D001907,Boutonneuse Fever
+67,67,Brain infarction,D020520,Brain Infarction
+68,68,Breast adenosis,D005348,Fibrocystic Breast Disease
+69,69,Brill-zinsser disease,D014438,"Typhus, Epidemic Louse-Borne"
+70,70,Bronchiolitis,D001988,Bronchiolitis
+71,71,Brucellosis,D002006,Brucellosis
+72,72,Bullous pemphigoid,D010391,"Pemphigoid, Bullous"
+73,73,Bullous skin disease,D012872,"Skin Diseases, Vesiculobullous"
+74,74,Buruli ulcer,D054312,Buruli Ulcer
+75,75,Campylobacteriosis,D002169,Campylobacter Infections
+76,76,Canaliculitis,D000069282,Canaliculitis
+77,77,Cardiac arrhythmia,D001145,"Arrhythmias, Cardiac"
+78,78,Cardiovascular disease,D002318,Cardiovascular Diseases
+79,79,Causing nosocomial,D003428,Cross Infection
+80,80,Celiac disease,D002446,Celiac Disease
+81,81,Cellulitis,D002481,Cellulitis
+82,82,Central nervous system infection,D002494,Central Nervous System Infections
+83,83,Cervical adenocarcinoma,D002583,Uterine Cervical Neoplasms
+84,84,Cervical carcinoma,D014594,Uterine Neoplasms
+85,85,Cervical glandular intraepithelial neoplasia,D002582,Cervix Mucus
+86,86,Chagas cardiomyopathy,D002598,Chagas Cardiomyopathy
+87,87,Chickenpox,D002644,Chickenpox
+88,88,Chikungunya encephalitis,D065632,Chikungunya Fever
+89,89,Chlamydia,D002689,Chlamydia
+90,90,Chlamydiosis,D002689,Chlamydia
+91,91,Cholera,D002771,Cholera
+92,92,Chromoblastomycosis,D002862,Chromoblastomycosis
+93,93,Chronic bacteria prostatitis,D011472,Prostatitis
+94,94,Chronic bronchitis,D029481,"Bronchitis, Chronic"
+95,95,Chronic fatigue syndrome,D015673,"Fatigue Syndrome, Chronic"
+96,96,Chronic gastritis,D005757,"Gastritis, Atrophic"
+97,97,Chronic kidney disease,D051436,"Renal Insufficiency, Chronic"
+98,98,Chronic mucocutaneous candidosis,D002178,"Candidiasis, Chronic Mucocutaneous"
+99,99,Chronic obstructive pulmonary disease,D029424,"Pulmonary Disease, Chronic Obstructive"
+100,100,Chronic periodontitis,D055113,Chronic Periodontitis
+101,101,Chronic rhinosinusitis,D012852,Sinusitis
+102,102,Cicatricial pemphigoid,D010390,"Pemphigoid, Benign Mucous Membrane"
+103,103,Cirrhosis of liver,D008103,Liver Cirrhosis
+104,104,Clostridium difficile infection,D003015,Clostridium Infections
+105,105,Coccidioidomycosis,D003047,Coccidioidomycosis
+106,106,Cold sores,D006560,Herpes Labialis
+107,107,Colitis,D003092,Colitis
+108,108,Colon adenocarcinoma,D003110,Colonic Neoplasms
+109,109,Colon cancer,D003110,Colonic Neoplasms
+110,110,Colorado tick fever,D003121,Colorado Tick Fever
+111,111,Colorectal adenocarcinoma,D011125,Adenomatous Polyposis Coli
+112,112,Colorectal cancer,D015179,Colorectal Neoplasms
+113,113,Colorectal carcinoma,D015179,Colorectal Neoplasms
+114,114,Complications during parturition,D036801,Parturition
+115,115,Congenital intrauterine infection-like syndrome,D006330,"Heart Defects, Congenital"
+116,116,Congenital microcephaly,D008831,Microcephaly
+117,117,Congenital short bowel syndrome,D007418,Intestinal Pseudo-Obstruction
+118,118,Conjunctival disorder,D003229,Conjunctival Diseases
+119,119,Constipation,D003248,Constipation
+120,120,Constipation irritable bowel syndrome(ibs),D043183,Irritable Bowel Syndrome
+121,121,Corneal edema,D015715,Corneal Edema
+122,122,Coronary artery disease,D003324,Coronary Artery Disease
+123,123,Coronary heart disease,D003327,Coronary Disease
+124,124,Corporis,D010374,Pediculus
+125,125,Crohn's disease,D003424,Crohn Disease
+126,126,Croup,D003440,Croup
+127,127,Cryptococcosis,D003453,Cryptococcosis
+128,128,Cryptosporidiosis,D003457,Cryptosporidiosis
+129,129,Cutaneous acanthamebiasis,D000052,Acanthosis Nigricans
+130,130,Cutaneous burn,D002056,Burns
+131,131,Cutaneous fungus infections,D003881,Dermatomycoses
+132,132,Cutaneous leishmaniasis,D016773,"Leishmaniasis, Cutaneous"
+133,133,Cutaneous mycoses,D009181,Mycoses
+134,134,Cutaneous syphilis,D013591,"Syphilis, Cutaneous"
+135,135,Cyclosporiasis,D021866,Cyclosporiasis
+136,136,Cystic fibrosis,D003550,Cystic Fibrosis
+137,137,Cystic fibrosis associated meconium ileum,D000074270,Meconium Ileus
+138,138,Cytomegalovirus retinitis,D017726,Cytomegalovirus Retinitis
+139,139,Dacryocystitis - osteopoikilosis,D010023,Osteopoikilosis
+140,140,Dandruff,D063807,Dandruff
+141,141,Deafness,D003638,Deafness
+142,142,Dendritic keratitis,D007635,"Keratitis, Dendritic"
+143,143,Dengue disease,D003715,Dengue
+144,144,Dental caries,D003731,Dental Caries
+145,145,Denture stomatitis,D013282,"Stomatitis, Denture"
+146,146,Dermal and genital lesions,D005835,Genitalia
+147,147,Dermoid cyst,D003884,Dermoid Cyst
+148,148,Diabetes mellitus,D003920,Diabetes Mellitus
+149,149,Diabetic foot,D017719,Diabetic Foot
+150,150,Diarrhea,D003967,Diarrhea
+151,151,Diphtheria,D004165,Diphtheria
+152,152,Disease,D004194,Disease
+153,153,Disease-free,D018572,Disease-Free Survival
+154,154,Disseminated trichosporonosis,D060586,Trichosporonosis
+155,155,Diverticular disease,D000076385,Diverticular Diseases
+156,156,Dysfunction,D012735,"Sexual Dysfunction, Physiological"
+157,157,Dyspepsia,D004415,Dyspepsia
+158,158,Dysplastic oral keratinocyte,D015603,Keratinocytes
+159,159,Echinococcosis,D004443,Echinococcosis
+160,160,Eczema,D004485,Eczema
+161,161,Encephalopathy,D001927,Brain Diseases
+162,162,Endocarditis,D004696,Endocarditis
+163,163,Endometrial adenosquamous carcinoma,D018269,"Carcinoma, Endometrioid"
+164,164,Enterobiasis,D017229,Enterobiasis
+165,165,Enterocolitis,D004760,Enterocolitis
+166,166,Enthesitis-related arthritis,D001171,"Arthritis, Juvenile"
+167,167,Eosinophilic esophagitis,D057765,Eosinophilic Esophagitis
+168,168,Ephemeral fever,D004810,Ephemeral Fever
+169,169,Epidemic pleurodynia,D011000,"Pleurodynia, Epidemic"
+170,170,Epiglottitis,D004826,Epiglottitis
+171,171,Epithelial neoplasm,D009375,"Neoplasms, Glandular and Epithelial"
+172,172,Erysipelas,D004886,Erysipelas
+173,173,Erythema infectiosum,D016731,Erythema Infectiosum
+174,174,Erythrasma,D004894,Erythrasma
+175,175,Escherichia coli meningitis,D020814,"Meningitis, Escherichia coli"
+176,176,Esophageal squamous cell carcinoma,D000077277,Esophageal Squamous Cell Carcinoma
+177,177,Eumycotic mycetoma,D008271,Mycetoma
+178,178,European foulbrood,D056569,Enterococcaceae
+179,179,Exanthema subitum,D005077,Exanthema Subitum
+180,180,Extraoral abscesses,D020802,Epidural Abscess
+181,181,Eye infection,D015817,Eye Infections
+182,182,Familial adenomatous polyposis,D011125,Adenomatous Polyposis Coli
+183,183,Familial idiopathic steroid-resistant nephrotic syndrome,D009404,Nephrotic Syndrome
+184,184,Febrile seizures,D003294,"Seizures, Febrile"
+185,185,Fever,D005334,Fever
+186,186,Foot and mouth disease,D005536,Foot-and-Mouth Disease
+187,187,Foul odor,D006209,Halitosis
+188,188,Fungemia,D016469,Fungemia
+189,189,Furunculosis,D005667,Furunculosis
+190,190,Fusariosis,D060585,Fusariosis
+191,191,Gallbladder disease,D005705,Gallbladder Diseases
+192,192,Gangrene,D005734,Gangrene
+193,193,Gas gangrene,D005738,Gas Gangrene
+194,194,Gastric cancer,D013274,Stomach Neoplasms
+195,195,Gastric carcinoma,D013274,Stomach Neoplasms
+196,196,Gastritis,D005756,Gastritis
+197,197,Gastroenteritis,D005759,Gastroenteritis
+198,198,Gastroesophageal reflux disease,D005764,Gastroesophageal Reflux
+199,199,Gastrointestinal mucositis,D052016,Mucositis
+200,200,Genital herpes,D006558,Herpes Genitalis
+201,201,Genital warts,D003218,Condylomata Acuminata
+202,202,Geotrichosis,D005847,Geotrichosis
+203,203,Gestational diabetes,D016640,"Diabetes, Gestational"
+204,204,Giardiasis,D005873,Giardiasis
+205,205,Gingival bleeding,D005884,Gingival Hemorrhage
+206,206,Gnathomiasis,D058429,Gnathostomiasis
+207,207,Gonorrhea,D006069,Gonorrhea
+208,208,Granuloma inguinale,D006100,Granuloma Inguinale
+209,209,Granulomatous dermatitis,D003872,Dermatitis
+210,210,Guillain-barre syndrome,D020275,Guillain-Barre Syndrome
+211,211,Gum cancer,D005887,Gingival Neoplasms
+212,212,Hashimoto's thyroiditis,D050031,Hashimoto Disease
+213,213,Head and neck malignant neoplasia,D006258,Head and Neck Neoplasms
+214,214,Heart failure,D006333,Heart Failure
+215,215,Helicobacter pylori infectious disease,D016480,Helicobacter pylori
+216,216,Hemolytic uremic syndrome,D006463,Hemolytic-Uremic Syndrome
+217,217,Hemorrhagic disease of newborn,D006475,Vitamin K Deficiency Bleeding
+218,218,Henoch-schoenlein purpura,D011695,IgA Vasculitis
+219,219,Hepatic vein thrombosis,D006502,Budd-Chiari Syndrome
+220,220,Hepatitis,D006506,Hepatitis A
+221,221,Hepatitis a,D006506,Hepatitis A
+222,222,Hepatitis b infection,D006509,Hepatitis B
+223,223,Hepatitis c infection,D006526,Hepatitis C
+224,224,Hepatitis e,D016751,Hepatitis E
+225,225,"Hepatitis, alcoholic",D006519,"Hepatitis, Alcoholic"
+226,226,Hepatocellular carcinoma,D006528,"Carcinoma, Hepatocellular"
+227,227,Herpangina,D006557,Herpangina
+228,228,Herpes simplex infection,D006561,Herpes Simplex
+229,229,Herpes zoster,D006562,Herpes Zoster
+230,230,Heterophyiasis,D006578,Heterophyidae
+231,231,Hirschsprung disease - nail hypoplasia - dysmorphism,D057215,Body Dysmorphic Disorders
+232,232,Histoplasmosis,D006660,Histoplasmosis
+233,233,Hiv infection,D015658,HIV Infections
+234,234,Human african trypanosomiasis,D014353,"Trypanosomiasis, African"
+235,235,Human granulocytic anaplasmosis,D000712,Anaplasmosis
+236,236,Human papilloma virus infection,D030361,Papillomavirus Infections
+237,237,Hutchinson-gilford progeria syndrome,D011371,Progeria
+238,238,Hyalohyphomycosis,D060605,Hyalohyphomycosis
+239,239,Hydrocephalus,D006849,Hydrocephalus
+240,240,Hydrops fetalis,D015160,Hydrops Fetalis
+241,241,Hyperlipidemia,D006949,Hyperlipidemias
+242,242,Hypertension,D006973,Hypertension
+243,243,Hyperthyroidism,D006980,Hyperthyroidism
+244,244,Idiopathic pulmonary fibrosis,D054990,Idiopathic Pulmonary Fibrosis
+245,245,Ileocolitis,D003424,Crohn Disease
+246,246,In children with genital lesions,0,0
+247,247,Infection,D007239,Infections
+248,248,Infections,D007239,Infections
+249,249,Infectious arthritis,D001170,"Arthritis, Infectious"
+250,250,Infectious meningitis,D008581,Meningitis
+251,251,Infectious mononucleosis,D007244,Infectious Mononucleosis
+252,252,Infertility,D007246,Infertility
+253,253,Inflammatory bowel disease,D015212,Inflammatory Bowel Diseases
+254,254,Inflammatory breast carcinoma,D058922,Inflammatory Breast Neoplasms
+255,255,Inflammatory skin disease,D003872,Dermatitis
+256,256,Injury,D014947,Wounds and Injuries
+257,257,Interstitial cystitis,D018856,"Cystitis, Interstitial"
+258,258,Ischemia,D007511,Ischemia
+259,259,Juvenile idiopathic arthritis,D001171,"Arthritis, Juvenile"
+260,260,Kaposi's sarcoma,D012514,"Sarcoma, Kaposi"
+261,261,Keratoconjunctivitis sicca,D007638,Keratoconjunctivitis Sicca
+262,262,Kidney stone,D007669,Kidney Calculi
+263,263,Laryngeal squamous cell carcinoma,D000077195,Squamous Cell Carcinoma of Head and Neck
+264,264,Late postpartum endometritis,D004716,Endometritis
+265,265,Legionellosis,D007876,Legionellosis
+266,266,Legionnaires' disease,D007877,Legionnaires' Disease
+267,267,Leishmaniasis,D054332,Leishmaniasis Vaccines
+268,268,Leprosy,D007918,Leprosy
+269,269,Lesions in humans,D014947,Wounds and Injuries
+270,270,Listeriosis,D008088,Listeriosis
+271,271,Liver disease,D008107,Liver Diseases
+272,272,Lower urinary tract symptom,D059411,Lower Urinary Tract Symptoms
+273,273,Ludwig's angina,D008158,Ludwig's Angina
+274,274,Lung abscess,D008169,Lung Abscess
+275,275,Lung disease,D008171,Lung Diseases
+276,276,Lungsaspergillosis,D055732,Pulmonary Aspergillosis
+277,277,Lupus nephritis,D008181,Lupus Nephritis
+278,278,Lyme disease,D008193,Lyme Disease
+279,279,Lymphadenitis,D008199,Lymphadenitis
+280,280,Lymphangitis,D008205,Lymphangitis
+281,281,Lymphogranuloma venereumm,D008219,Lymphogranuloma Venereum
+282,282,Lymphoproliferative disease,D008232,Lymphoproliferative Disorders
+283,283,Major depressive episode,D003865,"Depressive Disorder, Major"
+284,284,Malaria,D008288,Malaria
+285,285,Malignant,D016066,"Pleural Effusion, Malignant"
+286,286,Maxillary sinusitis,D015523,Maxillary Sinusitis
+287,287,Measles,D008457,Measles
+288,288,Megaesophagus,D004931,Esophageal Achalasia
+289,289,Meibomian cyst,D017043,Chalazion
+290,290,Membranous glomerulonephritis,D015433,"Glomerulonephritis, Membranous"
+291,291,Meningoencephalitis,D008590,Meningoencephalitis
+292,292,Metagonimiasis,D014201,Trematode Infections
+293,293,Microsporidiosis,D016881,Microsporidiosis
+294,294,Mild disease course,D018450,Disease Progression
+295,295,Miliaria,D008883,Miliaria
+296,296,Mononucleosis among immunocompetent individuals,D007244,Infectious Mononucleosis
+297,297,Mouth neoplasm,D009062,Mouth Neoplasms
+298,298,Mucocutaneous lymph node syndrome,D009080,Mucocutaneous Lymph Node Syndrome
+299,299,Mucormycosis,D009091,Mucormycosis
+300,300,Multiple sclerosis,D009103,Multiple Sclerosis
+301,301,Multiple system atrophy,D019578,Multiple System Atrophy
+302,302,Muscle aches,D063806,Myalgia
+303,303,Myelitis,D009187,Myelitis
+304,304,Myeloid sarcoma,D023981,"Sarcoma, Myeloid"
+305,305,Myoclonic cerebellar dyssynergia,D002527,Myoclonic Cerebellar Dyssynergia
+306,306,Myofascial pain syndrome,D005356,Fibromyalgia
+307,307,Nausea,D009325,Nausea
+308,308,Nausea and vomiting,D020250,Postoperative Nausea and Vomiting
+309,309,Necrotizing enterocolitis,D020345,"Enterocolitis, Necrotizing"
+310,310,Necrotizing ulcerative gingivitis,D005892,"Gingivitis, Necrotizing Ulcerative"
+311,311,Neonatal sepsis,D000071074,Neonatal Sepsis
+312,312,Nephrolithiasis,D053040,Nephrolithiasis
+313,313,Neuromyelitis optica,D009471,Neuromyelitis Optica
+314,314,Neuropathy,D018917,"Optic Neuropathy, Ischemic"
+315,315,New-onset untreated rheumatoid arthrits,D001172,"Arthritis, Rheumatoid"
+316,316,Nocardiosis,D009617,Nocardia Infections
+317,317,Non-alcoholic fatty liver disease,D065626,Non-alcoholic Fatty Liver Disease
+318,318,Non-alcoholic steatohepatitis,D065626,Non-alcoholic Fatty Liver Disease
+319,319,Nonchlamydial nongonococcal urethritis in males,D014526,Urethritis
+320,320,Nongonococcal urethritis in males,D014526,Urethritis
+321,321,Not foundthogenic,0,0
+322,322,Null,D008215,"Lymphocytes, Null"
+323,323,Obesity,D009765,Obesity
+324,324,Obsolete chromosome disorder,D025063,Chromosome Disorders
+325,325,Ocarditis,D009205,Myocarditis
+326,326,Odontogenic cyst,D009807,Odontogenic Cysts
+327,327,Oligoarticular juvenile idiopathic arthritis,D001171,"Arthritis, Juvenile"
+328,328,Oligoasthenoteratozoospermia,D009845,Oligospermia
+329,329,Open-angle glaucoma,D005902,"Glaucoma, Open-Angle"
+330,330,Opisthorchiasis,D009889,Opisthorchiasis
+331,331,Oral candidiasis,D002180,"Candidiasis, Oral"
+332,332,Oral cavity cancer,D009062,Mouth Neoplasms
+333,333,Oral leukoplakia,D007972,"Leukoplakia, Oral"
+334,334,Oral lichen planus,D017676,"Lichen Planus, Oral"
+335,335,Oral tuberculosis,D014393,"Tuberculosis, Oral"
+336,336,Orchitis,D009920,Orchitis
+337,337,Osteomyelitis,D010019,Osteomyelitis
+338,338,Ostomyelitis,D010019,Osteomyelitis
+339,339,Otitis media,D010033,Otitis Media
+340,340,Pancreatic carcinoma,D010190,Pancreatic Neoplasms
+341,341,Pancreatitis,D010195,Pancreatitis
+342,342,Panophthalmitis,D010202,Panophthalmitis
+343,343,Paracoccidioidomycosis,D010229,Paracoccidioidomycosis
+344,344,Paragonimiasis,D010237,Paragonimiasis
+345,345,Parkinson's disease,D010300,Parkinson Disease
+346,346,Parotitis,D010309,Parotitis
+347,347,Pasteurella hemorrhagic septicemia,D016979,Pasteurella multocida
+348,348,Pathogenic,D000072282,Extraintestinal Pathogenic Escherichia coli
+349,349,Pectobacterium carotovorum infection,D016973,Pectobacterium carotovorum
+350,350,Pelvic inflamm atory disease,D000292,Pelvic Inflammatory Disease
+351,351,Pelvic inflammatory disease,D000292,Pelvic Inflammatory Disease
+352,352,Pelvic in?ammatory disease,D000292,Pelvic Inflammatory Disease
+353,353,Peptic esophagitis,D004942,"Esophagitis, Peptic"
+354,354,Peptic ulcer,D010437,Peptic Ulcer
+355,355,Peptic ulcers,D010437,Peptic Ulcer
+356,356,Periapical granuloma,D010484,Periapical Granuloma
+357,357,Pericarditis,D010493,Pericarditis
+358,358,Periodontal,D017622,Periodontal Attachment Loss
+359,359,Periodontitis,D010518,Periodontitis
+360,360,Peritonitis,D010538,Peritonitis
+361,361,Peritonsillar abscess,D000039,Peritonsillar Abscess
+362,362,Pervasive developmental disorder - not otherwise specified,D002659,"Child Development Disorders, Pervasive"
+363,363,Pig-bel syndrome,D004751,Enteritis
+364,364,Pityriasis versicolor,D014010,Tinea Versicolor
+365,365,Plantar fasciitis,D036981,"Fasciitis, Plantar"
+366,366,Pleural tuberculosis,D014396,"Tuberculosis, Pleural"
+367,367,Pleuropulmonary blastoma,D018202,Pulmonary Blastoma
+368,368,Pneumocystosis,D011020,"Pneumonia, Pneumocystis"
+369,369,Pneumonia,D011014,Pneumonia
+370,370,Pneumonic pasteurellosis,D012766,"Pasteurellosis, Pneumonic"
+371,371,Poliomyelitis,D011051,Poliomyelitis
+372,372,Polycystic ovary syndrome,D011085,Polycystic Ovary Syndrome
+373,373,Polyomas,D011120,Polyomavirus
+374,374,Postmenopausal,D015663,"Osteoporosis, Postmenopausal"
+375,375,Pouchitis,D019449,Pouchitis
+376,376,Prediabetes syndrome,D011236,Prediabetic State
+377,377,Preeclampsia,D011225,Pre-Eclampsia
+378,378,Pregnancy,D011247,Pregnancy
+379,379,Premature birth,D047928,Premature Birth
+380,380,Primary biliary cirrhosis,D008105,"Liver Cirrhosis, Biliary"
+381,381,Probiotic,D019936,Probiotics
+382,382,Proctitis,D011349,Proctitis
+383,383,Progressive multifocal leukoencephalopathy,D007968,"Leukoencephalopathy, Progressive Multifocal"
+384,384,Prostate carcinoma,D000951,"Antigens, Neoplasm"
+385,385,Prosthesis-related infections,D016459,Prosthesis-Related Infections
+386,386,Protracted bacteria bronchitis,D001991,Bronchitis
+387,387,Pseudomembranous enterocolitis,D004761,"Enterocolitis, Pseudomembranous"
+388,388,Psoriasis,D011565,Psoriasis
+389,389,Psoriatic arthritis,D015535,"Arthritis, Psoriatic"
+390,390,Pulmonary arterial hypertension associated with another disease,D000081029,Pulmonary Arterial Hypertension
+391,391,Pulmonary tuberculosis,D014397,"Tuberculosis, Pulmonary"
+392,392,Pyelonephritis,D011704,Pyelonephritis
+393,393,Pyoderma,D011711,Pyoderma
+394,394,Q fever,D011778,Q Fever
+395,395,Rabies,D011818,Rabies
+396,396,Rat-bite fever,D011906,Rat-Bite Fever
+397,397,Reactive arthritis,D016918,"Arthritis, Reactive"
+398,398,Recurrent pneumonia,D011014,Pneumonia
+399,399,Red water disease,D001404,Babesiosis
+400,400,Refractory celiac disease,D002446,Celiac Disease
+401,401,Rem sleep behavior disorder,D020187,REM Sleep Behavior Disorder
+402,402,Renal carcinoma,D002292,"Carcinoma, Renal Cell"
+403,403,Renal transplant recipients and hemorrhagic cystiti,D000257,Adenoviridae Infections
+404,404,Respiratory paralysis,D012133,Respiratory Paralysis
+405,405,Respiratory syncytial virus infection,D018357,Respiratory Syncytial Virus Infections
+406,406,Respiratory system disease,D012140,Respiratory Tract Diseases
+407,407,Response to transplant,D006084,Graft Rejection
+408,408,Rett syndrome,D015518,Rett Syndrome
+409,409,Rheumatic fever,D012213,Rheumatic Fever
+410,410,Rheumatoid arthritis,D001172,"Arthritis, Rheumatoid"
+411,411,Rhinitis,D012220,Rhinitis
+412,412,Rhinoscleroma,D012226,Rhinoscleroma
+413,413,Rhinovirus infection,D012229,Rhinovirus
+414,414,Rickettsiosis,D012282,Rickettsia Infections
+415,415,Roseola,D005077,Exanthema Subitum
+416,416,Rubella,D012409,Rubella
+417,417,Salmonella gastroenteritis,D012478,Salmonella Food Poisoning
+418,418,Sarcocystosis,D012523,Sarcocystosis
+419,419,Sarcoma,D012509,Sarcoma
+420,420,Scarlet fever,D012541,Scarlet Fever
+421,421,Scedosporiosis,D000072742,Invasive Fungal Infections
+422,422,Schistosomiasis,D012552,Schistosomiasis
+423,423,Schizophrenia,D012559,Schizophrenia
+424,424,Sclerosing cholangitis,D015209,"Cholangitis, Sclerosing"
+425,425,Secretory diarrhea,D003967,Diarrhea
+426,426,Seizures,D012640,Seizures
+427,427,Seminal hyperviscosity,D008258,Waldenstrom Macroglobulinemia
+428,428,Sepsis,D018805,Sepsis
+429,429,Septic shock,D012772,"Shock, Septic"
+430,430,Septicemic plague,D010930,Plague
+431,431,Severe acute respiratory syndrome,D045169,Severe Acute Respiratory Syndrome
+432,432,Shigellosis,D004405,"Dysentery, Bacillary"
+433,433,Sickle cell anemia,D000755,"Anemia, Sickle Cell"
+434,434,Sinusitis,D012852,Sinusitis
+435,435,Sjogren syndrome,D012859,Sjogren's Syndrome
+436,436,Skin and soft tissue staphylococcus aureus infection,D013211,Staphylococcus aureus
+437,437,Skin disease,D012871,Skin Diseases
+438,438,Skin wound,D000069836,Degloving Injuries
+439,439,Smoking behavior,D012907,Smoking
+440,440,Spinal cord injury,D013119,Spinal Cord Injuries
+441,441,Splenic disease,D013158,Splenic Diseases
+442,442,Spondylodiscitis,D015299,Discitis
+443,443,Sporotrichosis,D013174,Sporotrichosis
+444,444,Streptococcal pharyngitis,D010612,Pharyngitis
+445,445,Streptococcal pneumonia,D011018,"Pneumonia, Pneumococcal"
+446,446,Subacute sclerosing panencephalitis,D013344,Subacute Sclerosing Panencephalitis
+447,447,Subdural empyema,D013354,"Empyema, Subdural"
+448,448,Suppuration of wounds,D013492,Suppuration
+449,449,Synovitis,D013585,Synovitis
+450,450,Syphilis,D013587,Syphilis
+451,451,Systematic fungemia,D016469,Fungemia
+452,452,Systemic inflammatory response syndrome,D018746,Systemic Inflammatory Response Syndrome
+453,453,Systemic lupus erythematosus,D008180,"Lupus Erythematosus, Systemic"
+454,454,Systemic scleroderma,D012595,"Scleroderma, Systemic"
+455,455,Tenosynovitis,D013717,Tenosynovitis
+456,456,Tetanus,D013745,Tetanus Toxoid
+457,457,Thrombophlebitis,D013924,Thrombophlebitis
+458,458,Thyroid gland mucoepidermoid carcinoma,D013964,Thyroid Neoplasms
+459,459,Tick infestation,D013984,Tick Infestations
+460,460,Tinea,D014005,Tinea
+461,461,Tinea favosa,D014007,Tinea Favosa
+462,462,Tinea pedis,D014008,Tinea Pedis
+463,463,Toxic encephalopathy,D020258,Neurotoxicity Syndromes
+464,464,Transient aplastic crisis in patients with hemoglobinopathies,D000741,"Anemia, Aplastic"
+465,465,Transient ischemic attack,D002546,"Ischemic Attack, Transient"
+466,466,Trench fever,D014205,Trench Fever
+467,467,Trichomonas vaginitis,D014247,Trichomonas Vaginitis
+468,468,Trichomoniasis,D014245,Trichomonas Infections
+469,469,Tuberculosis,D014376,Tuberculosis
+470,470,Tumorous abscesses,D000038,Abscess
+471,471,Type 1 diabetes,D003922,"Diabetes Mellitus, Type 1"
+472,472,Type 2 diabetes,D003924,"Diabetes Mellitus, Type 2"
+473,473,Type i diabetes mellitus,D003922,"Diabetes Mellitus, Type 1"
+474,474,Type ii diabetes mellitus,D003924,"Diabetes Mellitus, Type 2"
+475,475,Typhus,D014438,"Typhus, Epidemic Louse-Borne"
+476,476,Ulcerative colitis,D003093,"Colitis, Ulcerative"
+477,477,Ulcers,D014456,Ulcer
+478,478,Urethritis,D014526,Urethritis
+479,479,Urgency urinary incontinence,D053202,"Urinary Incontinence, Urge"
+480,480,Urinary tract infection,D014552,Urinary Tract Infections
+481,481,Urinary tract infections,D014552,Urinary Tract Infections
+482,482,Urogenital infections,D012553,Schistosomiasis haematobia
+483,483,Urosepsis,D011704,Pyelonephritis
+484,484,Vaginal inflammation,D014627,Vaginitis
+485,485,Vincent angina bacteria,D005892,"Gingivitis, Necrotizing Ulcerative"
+486,486,Viral cardiomyopathy,D009202,Cardiomyopathies
+487,487,Viral encephalitis,D018792,"Encephalitis, Viral"
+488,488,Viral pneumonia,D011024,"Pneumonia, Viral"
+489,489,Virus diarrhea,D053485,Porcine epidemic diarrhea virus
+490,490,Virus respiratory tract infection,D012141,Respiratory Tract Infections
+491,491,Virus syndromes,D008232,Lymphoproliferative Disorders
+492,492,Visceral leishmaniasis,D007898,"Leishmaniasis, Visceral"
+493,493,Vitiligo,D014820,Vitiligo
+494,494,Vulvar carcinoma,D014846,Vulvar Neoplasms
+495,495,Western equine encephalitis,D020241,"Encephalomyelitis, Western Equine"
+496,496,Whipple's disease,D008061,Whipple Disease
+497,497,White-sutton syndrome,D016584,Panic Disorder
+498,498,Whooping cough,D014917,Whooping Cough
+499,499,Yersinia infectious disease,D015009,Yersinia Infections
